@@ -18,5 +18,15 @@
   "homepage": "https://github.com/MauriceButler/sequelize-transaction-wrapper#readme",
   "devDependencies": {
     "tape": "^4.6.0"
-  }
+  },
+  "keywords": [
+    "transaction",
+    "wrapper",
+    "sequelize",
+    "mySql",
+    "automatic",
+    "commit",
+    "rollback",
+    "create"
+  ]
 }
