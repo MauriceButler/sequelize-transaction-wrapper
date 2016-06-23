@@ -1,6 +1,6 @@
 {
   "name": "sequelize-transaction-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wraps a function with a sequelize transaction and automatically commits or rolls back is error",
   "main": "index.js",
   "scripts": {
