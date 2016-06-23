@@ -1,0 +1,22 @@
+{
+  "name": "sequelize-transaction-wrapper",
+  "version": "1.0.0",
+  "description": "Wraps a function with a sequelize transaction and automatically commits or rolls back is error",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauriceButler/sequelize-transaction-wrapper.git"
+  },
+  "author": "Maurice Butler <maurice.butler@gmail.com> (http://maur.us/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/sequelize-transaction-wrapper/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/sequelize-transaction-wrapper#readme",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
